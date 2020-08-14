@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="ClientSock.cpp" />
     <ClCompile Include="client_send.cpp" />
-    <ClCompile Include="non-blocking.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

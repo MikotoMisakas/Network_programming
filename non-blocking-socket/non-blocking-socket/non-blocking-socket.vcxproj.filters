@@ -26,9 +26,6 @@
     <ClCompile Include="ClientSock.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="non-blocking.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="client_send.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
