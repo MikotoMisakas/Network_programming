@@ -11,3 +11,4 @@
    * PING ：implementation PING
    * GetRoutingIp : Get Routing Ip
    * networksniffer ： parsing ip
+   * getftpuserpws ：get ftp server password
