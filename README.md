@@ -12,3 +12,4 @@
    * GetRoutingIp : Get Routing Ip
    * networksniffer ： parsing ip
    * getftpuserpws ：get ftp server password
+   * originalsocketsendtcp : seed original tcp data
