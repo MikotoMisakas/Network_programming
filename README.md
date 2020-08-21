@@ -14,3 +14,5 @@
    * getftpuserpws ：get ftp server password
    * originalsocketsendtcp : seed original tcp data
    * enumeration ： enumeration agreement
+   * InstallLspDemo：install lsp dll
+   * LSP_DLL : lsp code(dll)
